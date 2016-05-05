@@ -1,0 +1,11 @@
+D:\spirit_application_new\SmsSender\SmsSender\bin\Release\SmsSender.exe.config
+D:\spirit_application_new\SmsSender\SmsSender\bin\Release\SmsSender.exe
+D:\spirit_application_new\SmsSender\SmsSender\bin\Release\SmsSender.pdb
+D:\spirit_application_new\SmsSender\SmsSender\bin\Release\Apache.NMS.ActiveMQ.dll
+D:\spirit_application_new\SmsSender\SmsSender\bin\Release\Apache.NMS.dll
+D:\spirit_application_new\SmsSender\SmsSender\obj\x86\Release\SmsSender.Form1.resources
+D:\spirit_application_new\SmsSender\SmsSender\obj\x86\Release\SmsSender.Properties.Resources.resources
+D:\spirit_application_new\SmsSender\SmsSender\obj\x86\Release\SmsSender.csproj.GenerateResource.Cache
+D:\spirit_application_new\SmsSender\SmsSender\obj\x86\Release\SmsSender.exe
+D:\spirit_application_new\SmsSender\SmsSender\obj\x86\Release\SmsSender.pdb
+D:\spirit_application_new\SmsSender\SmsSender\obj\x86\Release\SmsSender.csprojResolveAssemblyReference.cache
